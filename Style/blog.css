@@ -5,8 +5,10 @@ div{
     border-radius: 10px;
     text-align: align;
     font-size: large;
+    border: 2px solid black;
     
 }
 h3{text-align: center;
+    border: 5px solid green;
 
 }
